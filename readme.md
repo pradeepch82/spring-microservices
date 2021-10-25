@@ -18,4 +18,8 @@ Product-Service   :http:///localhost:3333
 
 Ribbon-client     :http://localhost:9995
 
+Customer-Service   :http:///localhost:7272
+
 Open Feigh-client :http://localhost:9994
+
+
